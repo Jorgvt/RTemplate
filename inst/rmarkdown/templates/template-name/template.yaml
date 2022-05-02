@@ -1,0 +1,3 @@
+name: BasicTemplate
+description: Basic template with all the library loading on top of the script.
+create_dir: FALSE
